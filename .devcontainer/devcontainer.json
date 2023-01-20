@@ -29,7 +29,8 @@
         "github.copilot",
         "github.vscode-pull-request-github",
         "njpwerner.autodocstring",
-        "mutantdino.resourcemonitor"
+        "mutantdino.resourcemonitor",
+        "MS-vsliveshare.vsliveshare"
     ],
     "features": {
         "github-cli": "latest"
