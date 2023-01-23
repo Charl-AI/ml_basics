@@ -10,8 +10,8 @@ You can always install manually with `python3 -m venv venv`, `source venv/bin/ac
 ### Option 1: Use VSCode Remote Containers
 
 ```bash
-git clone https://github.com/Charl-AI/MNIST-in-every-framework.git
-cd MNIST-in-every-framework
+git clone https://github.com/Charl-AI/ml_basics.git
+cd ml_basics
 ```
 
 Check that your Docker installation is working:
